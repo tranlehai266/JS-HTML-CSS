@@ -1,6 +1,6 @@
 let secretNumber;
 let lastGuess;
-let guessesRemaining = 10;
+let guessesRemaining = 5;
 let pastGuesses = [];
 
 const CORRECT_MESSAGE = "Chính xác! Bạn là một nhà ngoại cảm tài giỏi!!!.";
